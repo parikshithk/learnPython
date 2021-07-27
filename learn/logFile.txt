@@ -6,3 +6,7 @@ None2021-07-25 09:13:57,760 - DEBUG - Start of program
 2021-07-25 09:14:10,059 - DEBUG - Copying files into another directory
 2021-07-25 09:14:10,062 - DEBUG - Moving files into a new location
 2021-07-25 09:14:10,063 - DEBUG - End of program
+2021-07-25 09:33:50,885 - DEBUG - Start of program
+2021-07-25 09:34:16,730 - DEBUG - Copying files into another directory
+2021-07-25 09:34:20,692 - DEBUG - Moving files into a new location
+2021-07-25 09:34:34,420 - DEBUG - End of program
